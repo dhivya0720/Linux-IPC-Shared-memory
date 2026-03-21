@@ -139,10 +139,9 @@ int main() {
 
 ## OUTPUT
 
-![images](images/sem.o.png)
+![images](images2/sem.o.png)
 
-![images](images/ipcs.png)
-
+![images](images2/ipcs.png)
 
 # RESULT:
 The program is executed successfully.
